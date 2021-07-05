@@ -23,7 +23,7 @@ const resume = () => {
             <div>
               <h5 className="my-3 text-2xl font-bold">Experience</h5>
               <div className="">
-                <h5 className="my-2 text-xl font-bold">Software Developer C1</h5>
+                <h5 className="my-2 text-xl font-bold">Software Developer</h5>
                 <p className="font-semibold">Mindtree Limited</p>
                 <p className="my-3">Web Development</p>
               </div>
